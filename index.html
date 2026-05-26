@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>redteams.ai — Archive</title>
+    <link rel="icon" href="favicon.ico">
+    <link rel="apple-touch-icon" href="apple-icon.png">
+    <style>
+        :root {
+            --bg: #0a0a0f;
+            --surface: #12121a;
+            --surface-hover: #1a1a25;
+            --text: #e2e2e8;
+            --text-muted: #8a8a98;
+            --accent: #ff4757;
+            --accent-hover: #ff6b81;
+            --border: #252530;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+        header {
+            padding: 3rem 1.5rem 2rem;
+            text-align: center;
+            border-bottom: 1px solid var(--border);
+        }
+        .logo {
+            width: 80px;
+            height: 80px;
+            margin-bottom: 1.5rem;
+            border-radius: 16px;
+            background: var(--surface);
+            padding: 8px;
+        }
+        h1 { font-size: 2.5rem; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 0.5rem; }
+        .tagline { color: var(--text-muted); font-size: 1.1rem; max-width: 600px; margin: 0 auto; }
+        .badge {
+            display: inline-block;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            color: var(--text-muted);
+            padding: 0.3rem 0.8rem;
+            border-radius: 100px;
+            font-size: 0.8rem;
+            margin-top: 1rem;
+        }
+        main { max-width: 900px; margin: 0 auto; padding: 2rem 1.5rem; }
+        .section-title {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--text-muted);
+            margin: 2rem 0 1rem;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+            gap: 1rem;
+        }
+        .card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 1.25rem;
+            text-decoration: none;
+            color: var(--text);
+            transition: all 0.2s ease;
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+        .card:hover {
+            background: var(--surface-hover);
+            border-color: var(--accent);
+            transform: translateY(-2px);
+        }
+        .card-title { font-weight: 600; font-size: 1.05rem; }
+        .card-desc { color: var(--text-muted); font-size: 0.9rem; }
+        .card-count {
+            margin-top: auto;
+            font-size: 0.75rem;
+            color: var(--accent);
+            font-weight: 500;
+        }
+        footer {
+            text-align: center;
+            padding: 3rem 1.5rem;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            border-top: 1px solid var(--border);
+            margin-top: 2rem;
+        }
+        a { color: var(--accent); }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="icon0.svg" alt="redteams.ai" class="logo">
+        <h1>redteams.ai</h1>
+        <p class="tagline">A preserved archive of the AI red teaming knowledge base — research, case studies, methodologies, and defensive strategies.</p>
+        <span class="badge">Static Archive</span>
+    </header>
+
+    <main>
+        <p class="section-title">Core Sections</p>
+        <div class="grid">
+            <a href="blog/" class="card">
+                <div class="card-title">Blog</div>
+                <div class="card-desc">Articles on AI security, red teaming, and emerging threats.</div>
+                <div class="card-count">22+ posts</div>
+            </a>
+            <a href="topics/" class="card">
+                <div class="card-title">Topics</div>
+                <div class="card-desc">Deep-dive guides covering attack surfaces, defenses, and tradecraft.</div>
+                <div class="card-count">40+ topics</div>
+            </a>
+            <a href="glossary/" class="card">
+                <div class="card-title">Glossary</div>
+                <div class="card-desc">Definitions and explanations of key AI security terms.</div>
+            </a>
+            <a href="methodology/" class="card">
+                <div class="card-title">Methodology</div>
+                <div class="card-desc">Structured approaches to AI red teaming and security assessment.</div>
+            </a>
+            <a href="navigator/" class="card">
+                <div class="card-title">Navigator</div>
+                <div class="card-desc">Guided pathways through the knowledge base.</div>
+            </a>
+            <a href="playground/" class="card">
+                <div class="card-title">Playground</div>
+                <div class="card-desc">Interactive examples and hands-on exercises.</div>
+            </a>
+        </div>
+
+        <p class="section-title">Resources</p>
+        <div class="grid">
+            <a href="resources/" class="card">
+                <div class="card-title">Resources</div>
+                <div class="card-desc">Tools, references, and external links for AI security practitioners.</div>
+            </a>
+            <a href="bookmarks/" class="card">
+                <div class="card-title">Bookmarks</div>
+                <div class="card-desc">Curated collection of essential reading and references.</div>
+            </a>
+            <a href="tags/" class="card">
+                <div class="card-title">Tags</div>
+                <div class="card-desc">Browse content by category and theme.</div>
+                <div class="card-count">24 tags</div>
+            </a>
+            <a href="soar/" class="card">
+                <div class="card-title">SOAR</div>
+                <div class="card-desc">Security orchestration, automation, and response for AI.</div>
+            </a>
+        </div>
+
+        <p class="section-title">Meta</p>
+        <div class="grid">
+            <a href="contribute/" class="card">
+                <div class="card-title">Contribute</div>
+                <div class="card-desc">How to contribute to the knowledge base.</div>
+            </a>
+            <a href="privacy/" class="card">
+                <div class="card-title">Privacy</div>
+                <div class="card-desc">Privacy policy and data handling information.</div>
+            </a>
+            <a href="terms/" class="card">
+                <div class="card-title">Terms</div>
+                <div class="card-desc">Terms of service and usage guidelines.</div>
+            </a>
+            <a href="cookies/" class="card">
+                <div class="card-title">Cookies</div>
+                <div class="card-desc">Cookie policy and consent information.</div>
+            </a>
+        </div>
+    </main>
+
+    <footer>
+        <p>Originally from <a href="https://redteams.ai">redteams.ai</a> &mdash; archived for preservation.</p>
+        <p style="margin-top:0.5rem;">Hosted on GitHub Pages. Content may include Wayback Machine preservation artifacts.</p>
+    </footer>
+</body>
+</html>

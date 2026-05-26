@@ -1,0 +1,5684 @@
+[
+  {
+    "timestamp": "20240811064530",
+    "original": "https://www.redteams.ai/",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/?_rsc=13rrt",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123817",
+    "original": "https://redteams.ai/?_rsc=16bl9",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/?_rsc=1i3ya",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/?_rsc=1ipzt",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123815",
+    "original": "https://redteams.ai/?_rsc=1nz5d",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123817",
+    "original": "https://redteams.ai/?_rsc=1pgi2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062256",
+    "original": "https://redteams.ai/?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123803",
+    "original": "https://redteams.ai/?_rsc=2q2fc",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095928",
+    "original": "https://redteams.ai/?_rsc=6j9j2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095925",
+    "original": "https://redteams.ai/?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123815",
+    "original": "https://redteams.ai/?_rsc=82y4c",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/?_rsc=cycxm",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/?_rsc=dji66",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062256",
+    "original": "https://redteams.ai/?_rsc=ivliq",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/?_rsc=k7op6",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/?_rsc=m47q1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/?_rsc=nzwbk",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260506150351",
+    "original": "https://redteams.ai/?_rsc=p37cr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/?_rsc=xabo0",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/?_rsc=xrzkl",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/?_rsc=xwd62",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123738",
+    "original": "https://redteams.ai/_next/static/chunks/0-vuao8ecev.b.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260401062255",
+    "original": "https://redteams.ai/_next/static/chunks/0.m6shjnz5vos.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260401062251",
+    "original": "https://redteams.ai/_next/static/chunks/0.o5nvm0-.1tr.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260414123738",
+    "original": "https://redteams.ai/_next/static/chunks/0.w87ezi~skv5.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260414123735",
+    "original": "https://redteams.ai/_next/static/chunks/00e8xe5opne7u.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260414123736",
+    "original": "https://redteams.ai/_next/static/chunks/00vjfcfxy5lxi.css",
+    "statuscode": "200",
+    "mimetype": "text/css"
+  },
+  {
+    "timestamp": "20260401062249",
+    "original": "https://redteams.ai/_next/static/chunks/010.lt2eljym9.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260414123737",
+    "original": "https://redteams.ai/_next/static/chunks/01iz90f31xrx6.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260401062251",
+    "original": "https://redteams.ai/_next/static/chunks/028stp~.h-kxc.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260401062249",
+    "original": "https://redteams.ai/_next/static/chunks/04.i-__.as.dk.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260414123745",
+    "original": "https://redteams.ai/_next/static/chunks/06us~.383t.31.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260401062255",
+    "original": "https://redteams.ai/_next/static/chunks/07ub-xd67-~sl.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260401062254",
+    "original": "https://redteams.ai/_next/static/chunks/0b5pqr_qobuzf.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260401062250",
+    "original": "https://redteams.ai/_next/static/chunks/0bv~rw6v0j2ir.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260401062249",
+    "original": "https://redteams.ai/_next/static/chunks/0b~pnn_2r20hz.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260506150346",
+    "original": "https://redteams.ai/_next/static/chunks/0d68qqfuumi01.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260429095924",
+    "original": "https://redteams.ai/_next/static/chunks/0g0oi2na1iptj.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260414123743",
+    "original": "https://redteams.ai/_next/static/chunks/0gxifns56s.yt.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260401062249",
+    "original": "https://redteams.ai/_next/static/chunks/0i.l9589uvx0j.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/_next/static/chunks/0jl6z1k~94763.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260414123736",
+    "original": "https://redteams.ai/_next/static/chunks/0m4wj465il1oy.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260401062251",
+    "original": "https://redteams.ai/_next/static/chunks/0m574lri75x_~.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260429095924",
+    "original": "https://redteams.ai/_next/static/chunks/0op-plv8hx0m6.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260414123738",
+    "original": "https://redteams.ai/_next/static/chunks/0plekfu5gs7md.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260414123745",
+    "original": "https://redteams.ai/_next/static/chunks/0qqx44xn4x2g2.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260401062250",
+    "original": "https://redteams.ai/_next/static/chunks/0u90l-1w.yaqk.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260401062249",
+    "original": "https://redteams.ai/_next/static/chunks/0woes.yxtj1qb.css",
+    "statuscode": "200",
+    "mimetype": "text/css"
+  },
+  {
+    "timestamp": "20260429095923",
+    "original": "https://redteams.ai/_next/static/chunks/0wprc-r46t5w1.css",
+    "statuscode": "200",
+    "mimetype": "text/css"
+  },
+  {
+    "timestamp": "20260401062249",
+    "original": "https://redteams.ai/_next/static/chunks/0x.73w57rn4ou.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260429095924",
+    "original": "https://redteams.ai/_next/static/chunks/0xzbin8nj4i3k.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260414123745",
+    "original": "https://redteams.ai/_next/static/chunks/0zt-4pc_5._l8.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260429095924",
+    "original": "https://redteams.ai/_next/static/chunks/11.1vovmij5vo.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260414123735",
+    "original": "https://redteams.ai/_next/static/chunks/128aahewwf1we.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260429095924",
+    "original": "https://redteams.ai/_next/static/chunks/12oug1reqca0q.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260401062256",
+    "original": "https://redteams.ai/_next/static/chunks/13pp5pl1u5kha.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260401062256",
+    "original": "https://redteams.ai/_next/static/chunks/140o7hgqmel6g.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260401062249",
+    "original": "https://redteams.ai/_next/static/chunks/14pofykpskj6v.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260401062249",
+    "original": "https://redteams.ai/_next/static/chunks/14wgq8~_c~j5~.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260401062250",
+    "original": "https://redteams.ai/_next/static/chunks/160sok4xp1rpc.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260414123736",
+    "original": "https://redteams.ai/_next/static/chunks/turbopack-0.53e64rd-txu.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260401062250",
+    "original": "https://redteams.ai/_next/static/chunks/turbopack-01k21ie_s-med.js",
+    "statuscode": "200",
+    "mimetype": "application/javascript"
+  },
+  {
+    "timestamp": "20260401062249",
+    "original": "https://redteams.ai/_next/static/media/1b99372b3eaef0c8-s.p.0gx2haw2tmll8.woff2",
+    "statuscode": "200",
+    "mimetype": "font/woff2"
+  },
+  {
+    "timestamp": "20260401062307",
+    "original": "https://redteams.ai/_next/static/media/b2ea385cb5ae8625-s.0kjod.kaq1k69.woff2",
+    "statuscode": "200",
+    "mimetype": "font/woff2"
+  },
+  {
+    "timestamp": "20260401062303",
+    "original": "https://redteams.ai/api/og?slug=agent-exploitation",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260506150405",
+    "original": "https://redteams.ai/api/og?slug=agent-exploitation%2Fagent-delegation-attacks",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260401062303",
+    "original": "https://redteams.ai/api/og?slug=agent-exploitation%2Fagent-identity-credential-theft",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260401062303",
+    "original": "https://redteams.ai/api/og?slug=agent-exploitation%2Fagent-memory-poisoning",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260401062303",
+    "original": "https://redteams.ai/api/og?slug=agent-exploitation%2Fagent-supply-chain-attacks",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123809",
+    "original": "https://redteams.ai/api/og?slug=ai-forensics-ir",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260506150405",
+    "original": "https://redteams.ai/api/og?slug=ai-forensics-ir%2Fai-red-team-evidence-collection",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/api/og?slug=assessments",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260401062303",
+    "original": "https://redteams.ai/api/og?slug=capstone",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123831",
+    "original": "https://redteams.ai/api/og?slug=capstone%2Fexecution-reporting",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/api/og?slug=case-studies",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123844",
+    "original": "https://redteams.ai/api/og?slug=case-studies%2Fcase-study-ai-generated-code-vulns",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123841",
+    "original": "https://redteams.ai/api/og?slug=case-studies%2Fcase-study-ai-generated-malware",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123845",
+    "original": "https://redteams.ai/api/og?slug=case-studies%2Fcase-study-alignment-faking",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123843",
+    "original": "https://redteams.ai/api/og?slug=case-studies%2Fcase-study-claude-many-shot",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123839",
+    "original": "https://redteams.ai/api/og?slug=case-studies%2Fcase-study-deepseek-safety-analysis",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123842",
+    "original": "https://redteams.ai/api/og?slug=case-studies%2Fcase-study-gcg-attack-impact",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123841",
+    "original": "https://redteams.ai/api/og?slug=case-studies%2Fcase-study-gpt4-early-jailbreaks",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123840",
+    "original": "https://redteams.ai/api/og?slug=case-studies%2Fcase-study-healthcare-ai-failures",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123839",
+    "original": "https://redteams.ai/api/og?slug=case-studies%2Fcase-study-lawyer-hallucinated-citations",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123846",
+    "original": "https://redteams.ai/api/og?slug=case-studies%2Fcase-study-mcp-early-vulnerabilities",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123844",
+    "original": "https://redteams.ai/api/og?slug=case-studies%2Fcase-study-prompt-injection-google-bard",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123844",
+    "original": "https://redteams.ai/api/og?slug=case-studies%2Fcase-study-prompt-injection-wild",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123846",
+    "original": "https://redteams.ai/api/og?slug=case-studies%2Fcase-study-rag-poisoning-production",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123843",
+    "original": "https://redteams.ai/api/og?slug=case-studies%2Fcase-study-samsung-data-leak",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/api/og?slug=cloud-ai-security",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123831",
+    "original": "https://redteams.ai/api/og?slug=cloud-ai-security%2Fcloud-ai-network-isolation",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123809",
+    "original": "https://redteams.ai/api/og?slug=code-gen-security",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123809",
+    "original": "https://redteams.ai/api/og?slug=community-challenges",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260429095950",
+    "original": "https://redteams.ai/api/og?slug=defense-mitigation%2Fagent-permission-model-design",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260429095950",
+    "original": "https://redteams.ai/api/og?slug=defense-mitigation%2Fconfidential-computing-llm",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260429095949",
+    "original": "https://redteams.ai/api/og?slug=defense-mitigation%2Fdefense-in-depth-llm-apps",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260429095950",
+    "original": "https://redteams.ai/api/og?slug=defense-mitigation%2Fincident-response-playbook-ai",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260429095950",
+    "original": "https://redteams.ai/api/og?slug=defense-mitigation%2Finput-validation-architecture",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260429095949",
+    "original": "https://redteams.ai/api/og?slug=defense-mitigation%2Fllm-honeypot-techniques",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260429095950",
+    "original": "https://redteams.ai/api/og?slug=defense-mitigation%2Fprompt-injection-canary-system",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260429095949",
+    "original": "https://redteams.ai/api/og?slug=defense-mitigation%2Fprompt-injection-detection-ml",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260429095950",
+    "original": "https://redteams.ai/api/og?slug=defense-mitigation%2Fred-team-as-service-model",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260429095949",
+    "original": "https://redteams.ai/api/og?slug=defense-mitigation%2Fw2-adaptive-defense-systems",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260429095950",
+    "original": "https://redteams.ai/api/og?slug=defense-mitigation%2Fw2-context-isolation-patterns",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260429095949",
+    "original": "https://redteams.ai/api/og?slug=defense-mitigation%2Fw2-defense-evaluation-methodology",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260429095949",
+    "original": "https://redteams.ai/api/og?slug=defense-mitigation%2Fw2-output-watermarking-defense",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260429095949",
+    "original": "https://redteams.ai/api/og?slug=defense-mitigation%2Fw2-realtime-safety-monitoring",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260429095950",
+    "original": "https://redteams.ai/api/og?slug=defense-mitigation%2Fw2-token-level-anomaly-detection",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260429095949",
+    "original": "https://redteams.ai/api/og?slug=defense-mitigation%2Fw2-user-intent-classification",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260401062303",
+    "original": "https://redteams.ai/api/og?slug=exploit-dev",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123808",
+    "original": "https://redteams.ai/api/og?slug=fine-tuning-security",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123854",
+    "original": "https://redteams.ai/api/og?slug=foundations%2Fembeddings%2Frag-architecture",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/api/og?slug=frontier-research",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/api/og?slug=governance-compliance",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/api/og?slug=impact",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260401062303",
+    "original": "https://redteams.ai/api/og?slug=infrastructure",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123902",
+    "original": "https://redteams.ai/api/og?slug=infrastructure%2Fai-supply-chain-incident-response",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123859",
+    "original": "https://redteams.ai/api/og?slug=infrastructure%2Fai-workload-isolation",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123904",
+    "original": "https://redteams.ai/api/og?slug=infrastructure%2Fapi-security",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123901",
+    "original": "https://redteams.ai/api/og?slug=infrastructure%2Fdistributed-training-security",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123902",
+    "original": "https://redteams.ai/api/og?slug=infrastructure%2Ffederated-learning-security",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123900",
+    "original": "https://redteams.ai/api/og?slug=infrastructure%2Fgpu-sharing-isolation",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123900",
+    "original": "https://redteams.ai/api/og?slug=infrastructure%2Fml-data-lake-security",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123900",
+    "original": "https://redteams.ai/api/og?slug=infrastructure%2Fml-experiment-infrastructure-security",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123858",
+    "original": "https://redteams.ai/api/og?slug=infrastructure%2Fmodel-artifact-integrity",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123901",
+    "original": "https://redteams.ai/api/og?slug=infrastructure%2Fmodel-supply-chain",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123902",
+    "original": "https://redteams.ai/api/og?slug=infrastructure%2Fmodel-weight-encryption",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123902",
+    "original": "https://redteams.ai/api/og?slug=infrastructure%2Fsecrets-management-ai-apps",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123900",
+    "original": "https://redteams.ai/api/og?slug=infrastructure%2Fstorage-security-training-data",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123902",
+    "original": "https://redteams.ai/api/og?slug=infrastructure%2Ftraining-cluster-network-security",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123902",
+    "original": "https://redteams.ai/api/og?slug=infrastructure%2Fvector-database-security",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123848",
+    "original": "https://redteams.ai/api/og?slug=labs%2Fctf%2Fctf-rag-heist",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260401062303",
+    "original": "https://redteams.ai/api/og?slug=llm-internals",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123904",
+    "original": "https://redteams.ai/api/og?slug=llm-internals%2Fattention-exploitation",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123904",
+    "original": "https://redteams.ai/api/og?slug=llm-internals%2Ftokenization-attacks",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260401062303",
+    "original": "https://redteams.ai/api/og?slug=prompt-injection",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123831",
+    "original": "https://redteams.ai/api/og?slug=prompt-injection%2Fdefense-evasion",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123848",
+    "original": "https://redteams.ai/api/og?slug=prompt-injection%2Findirect-injection",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123904",
+    "original": "https://redteams.ai/api/og?slug=prompt-injection%2Fjailbreak-techniques",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260401062303",
+    "original": "https://redteams.ai/api/og?slug=rag-data-attacks",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123849",
+    "original": "https://redteams.ai/api/og?slug=rag-data-attacks%2Fchunk-boundary-attacks",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123852",
+    "original": "https://redteams.ai/api/og?slug=rag-data-attacks%2Fdata-extraction",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123848",
+    "original": "https://redteams.ai/api/og?slug=rag-data-attacks%2Fknowledge-base-poisoning",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123849",
+    "original": "https://redteams.ai/api/og?slug=rag-data-attacks%2Fmetadata-injection",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123849",
+    "original": "https://redteams.ai/api/og?slug=rag-data-attacks%2Frag-poisoning",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123850",
+    "original": "https://redteams.ai/api/og?slug=rag-data-attacks%2Fretrieval-manipulation",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260401062303",
+    "original": "https://redteams.ai/api/og?slug=recon-tradecraft",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123831",
+    "original": "https://redteams.ai/api/og?slug=recon-tradecraft%2Fapi-enumeration",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/api/og?slug=recon-tradecraft%2Fattack-surface-mapping",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123831",
+    "original": "https://redteams.ai/api/og?slug=recon-tradecraft%2Fmodel-identification",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/api/og?slug=references",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123831",
+    "original": "https://redteams.ai/api/og?slug=tradecraft%2Fadvanced-recon",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260506150405",
+    "original": "https://redteams.ai/api/og?slug=zh-TW%2Fagent-exploitation%2Fagent-delegation-attacks",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123808",
+    "original": "https://redteams.ai/apple-icon.png",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260401062306",
+    "original": "https://redteams.ai/apple-icon.png?apple-icon.0oeydhd0ishiv.png=",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260401062301",
+    "original": "https://redteams.ai/blog",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062304",
+    "original": "https://redteams.ai/blog/250-samples-data-poisoning",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062304",
+    "original": "https://redteams.ai/blog/agentic-ai-security-guide",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/blog/ai-red-team-career-guide",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/blog/ai-red-teaming-2025",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/blog/ai-security-incidents-2025-2026",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/blog/building-ai-defense-stack",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/blog/building-ai-red-team-lab",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/blog/cloud-ai-red-teaming",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062304",
+    "original": "https://redteams.ai/blog/defense-landscape-2026",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062303",
+    "original": "https://redteams.ai/blog/finding-cves-with-ai-red-teaming",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/blog/fine-tuning-security-lessons",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062304",
+    "original": "https://redteams.ai/blog/hacking-ai-security-tools",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/blog/llm-forensics-primer",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062304",
+    "original": "https://redteams.ai/blog/llm-jailbreaking-2026",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/blog/mcp-security-deep-dive",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/blog/multimodal-attack-landscape",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062304",
+    "original": "https://redteams.ai/blog/openclaw-security-crisis",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062304",
+    "original": "https://redteams.ai/blog/prompt-injection-landscape-2026",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/blog/reasoning-model-security-2026",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062304",
+    "original": "https://redteams.ai/blog/red-teaming-ai-soc",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/blog/top-ai-vulnerabilities-2026",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062304",
+    "original": "https://redteams.ai/blog/welcome-to-redteams",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062304",
+    "original": "https://redteams.ai/blog/whats-new-march-2026",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/blog?_rsc=13rrt",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/blog?_rsc=172lj",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/blog?_rsc=1ayed",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/blog?_rsc=1g1p6",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/blog?_rsc=1i3ya",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123822",
+    "original": "https://redteams.ai/blog?_rsc=1j26u",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/blog?_rsc=1osuc",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/blog?_rsc=1owtg",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/blog?_rsc=1pgi2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062253",
+    "original": "https://redteams.ai/blog?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062251",
+    "original": "https://redteams.ai/blog?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/blog?_rsc=1rw86",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/blog?_rsc=1tonl",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/blog?_rsc=1u7rc",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123814",
+    "original": "https://redteams.ai/blog?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/blog?_rsc=1xl1e",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123801",
+    "original": "https://redteams.ai/blog?_rsc=2q2fc",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/blog?_rsc=4dyff",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062253",
+    "original": "https://redteams.ai/blog?_rsc=4n2cs",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095925",
+    "original": "https://redteams.ai/blog?_rsc=6j9j2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/blog?_rsc=7j9hq",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095924",
+    "original": "https://redteams.ai/blog?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/blog?_rsc=82y4c",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/blog?_rsc=cycxm",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/blog?_rsc=dji66",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/blog?_rsc=jl54w",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123802",
+    "original": "https://redteams.ai/blog?_rsc=k7op6",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/blog?_rsc=m47q1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/blog?_rsc=mfj54",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123818",
+    "original": "https://redteams.ai/blog?_rsc=nasgd",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123826",
+    "original": "https://redteams.ai/blog?_rsc=ns7ve",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260506150350",
+    "original": "https://redteams.ai/blog?_rsc=p37cr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123806",
+    "original": "https://redteams.ai/blog?_rsc=xabo0",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/blog?_rsc=xrzkl",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062253",
+    "original": "https://redteams.ai/blog?_rsc=ydjbj",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123757",
+    "original": "https://redteams.ai/blog?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/bookmarks",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123743",
+    "original": "https://redteams.ai/bookmarks?_rsc=12rs3",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/bookmarks?_rsc=13rrt",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/bookmarks?_rsc=16f4j",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/bookmarks?_rsc=1aswn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/bookmarks?_rsc=1f4dn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/bookmarks?_rsc=1i3ya",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/bookmarks?_rsc=1ihj0",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/bookmarks?_rsc=1j26u",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/bookmarks?_rsc=1o2om",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/bookmarks?_rsc=1pgi2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123743",
+    "original": "https://redteams.ai/bookmarks?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123740",
+    "original": "https://redteams.ai/bookmarks?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/bookmarks?_rsc=1tsbh",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123815",
+    "original": "https://redteams.ai/bookmarks?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/bookmarks?_rsc=1y4le",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123801",
+    "original": "https://redteams.ai/bookmarks?_rsc=2q2fc",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123743",
+    "original": "https://redteams.ai/bookmarks?_rsc=3pqtm",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095927",
+    "original": "https://redteams.ai/bookmarks?_rsc=6j9j2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095926",
+    "original": "https://redteams.ai/bookmarks?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/bookmarks?_rsc=82y4c",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/bookmarks?_rsc=cycxm",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/bookmarks?_rsc=dji66",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/bookmarks?_rsc=fku23",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/bookmarks?_rsc=k7op6",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123806",
+    "original": "https://redteams.ai/bookmarks?_rsc=lo60g",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/bookmarks?_rsc=m47q1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/bookmarks?_rsc=mfj54",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123824",
+    "original": "https://redteams.ai/bookmarks?_rsc=nasgd",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260506150350",
+    "original": "https://redteams.ai/bookmarks?_rsc=p37cr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/bookmarks?_rsc=t5ckb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/bookmarks?_rsc=ww86k",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/bookmarks?_rsc=xrzkl",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123800",
+    "original": "https://redteams.ai/bookmarks?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062301",
+    "original": "https://redteams.ai/contribute",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/contribute?_rsc=12bvq",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/contribute?_rsc=13rrt",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/contribute?_rsc=1d2sb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062253",
+    "original": "https://redteams.ai/contribute?_rsc=1fld4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/contribute?_rsc=1hnm8",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/contribute?_rsc=1i3ya",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/contribute?_rsc=1j26u",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/contribute?_rsc=1o2l7",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/contribute?_rsc=1pgi2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062253",
+    "original": "https://redteams.ai/contribute?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062252",
+    "original": "https://redteams.ai/contribute?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/contribute?_rsc=1tnt6",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123816",
+    "original": "https://redteams.ai/contribute?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/contribute?_rsc=1xmr1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123801",
+    "original": "https://redteams.ai/contribute?_rsc=2q2fc",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095927",
+    "original": "https://redteams.ai/contribute?_rsc=6j9j2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123831",
+    "original": "https://redteams.ai/contribute?_rsc=6n9o9",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095926",
+    "original": "https://redteams.ai/contribute?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/contribute?_rsc=81b4f",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/contribute?_rsc=82y4c",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/contribute?_rsc=9v3st",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/contribute?_rsc=a29rg",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062253",
+    "original": "https://redteams.ai/contribute?_rsc=cnye9",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/contribute?_rsc=cycxm",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/contribute?_rsc=dji66",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/contribute?_rsc=g973h",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/contribute?_rsc=hi936",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/contribute?_rsc=hozsw",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/contribute?_rsc=k7op6",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/contribute?_rsc=mfj54",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123827",
+    "original": "https://redteams.ai/contribute?_rsc=nasgd",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062253",
+    "original": "https://redteams.ai/contribute?_rsc=nn07o",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260506150350",
+    "original": "https://redteams.ai/contribute?_rsc=p37cr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123806",
+    "original": "https://redteams.ai/contribute?_rsc=xabo0",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/contribute?_rsc=xrzkl",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123801",
+    "original": "https://redteams.ai/contribute?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123809",
+    "original": "https://redteams.ai/cookies",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123831",
+    "original": "https://redteams.ai/cookies?_rsc=12ql1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/cookies?_rsc=12te3",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/cookies?_rsc=13rrt",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123808",
+    "original": "https://redteams.ai/cookies?_rsc=15cb8",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/cookies?_rsc=17rpw",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123743",
+    "original": "https://redteams.ai/cookies?_rsc=1855t",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/cookies?_rsc=18maq",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123806",
+    "original": "https://redteams.ai/cookies?_rsc=1i3ya",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123827",
+    "original": "https://redteams.ai/cookies?_rsc=1j26u",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/cookies?_rsc=1lwz1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/cookies?_rsc=1nn0q",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/cookies?_rsc=1pgi2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123743",
+    "original": "https://redteams.ai/cookies?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/cookies?_rsc=1qj7n",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123740",
+    "original": "https://redteams.ai/cookies?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123815",
+    "original": "https://redteams.ai/cookies?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/cookies?_rsc=1xxha",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123759",
+    "original": "https://redteams.ai/cookies?_rsc=2q2fc",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095927",
+    "original": "https://redteams.ai/cookies?_rsc=6j9j2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/cookies?_rsc=6n9o9",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095926",
+    "original": "https://redteams.ai/cookies?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/cookies?_rsc=82y4c",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123743",
+    "original": "https://redteams.ai/cookies?_rsc=8wd90",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/cookies?_rsc=95noy",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123806",
+    "original": "https://redteams.ai/cookies?_rsc=b77zy",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123809",
+    "original": "https://redteams.ai/cookies?_rsc=cycxm",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/cookies?_rsc=dji66",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/cookies?_rsc=k7op6",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/cookies?_rsc=kiold",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/cookies?_rsc=kn67q",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/cookies?_rsc=m3yq6",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/cookies?_rsc=m47q1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/cookies?_rsc=mfj54",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123821",
+    "original": "https://redteams.ai/cookies?_rsc=nasgd",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260506150350",
+    "original": "https://redteams.ai/cookies?_rsc=p37cr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/cookies?_rsc=qyqmn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/cookies?_rsc=srute",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/cookies?_rsc=xabo0",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123808",
+    "original": "https://redteams.ai/cookies?_rsc=xrzkl",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123758",
+    "original": "https://redteams.ai/cookies?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062303",
+    "original": "https://redteams.ai/favicon.ico",
+    "statuscode": "200",
+    "mimetype": "image/x-icon"
+  },
+  {
+    "timestamp": "20260401062301",
+    "original": "https://redteams.ai/feed.xml",
+    "statuscode": "200",
+    "mimetype": "application/rss+xml"
+  },
+  {
+    "timestamp": "20260401062252",
+    "original": "https://redteams.ai/feed.xml?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "application/rss+xml"
+  },
+  {
+    "timestamp": "20260401062301",
+    "original": "https://redteams.ai/glossary",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/glossary?_rsc=10834",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/glossary?_rsc=11j78",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062254",
+    "original": "https://redteams.ai/glossary?_rsc=11q3r",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/glossary?_rsc=13rrt",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/glossary?_rsc=1i3ya",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123808",
+    "original": "https://redteams.ai/glossary?_rsc=1io8q",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123830",
+    "original": "https://redteams.ai/glossary?_rsc=1j26u",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123814",
+    "original": "https://redteams.ai/glossary?_rsc=1pgi2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062253",
+    "original": "https://redteams.ai/glossary?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062252",
+    "original": "https://redteams.ai/glossary?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123817",
+    "original": "https://redteams.ai/glossary?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123815",
+    "original": "https://redteams.ai/glossary?_rsc=26052",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123802",
+    "original": "https://redteams.ai/glossary?_rsc=2q2fc",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095925",
+    "original": "https://redteams.ai/glossary?_rsc=6j9j2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095925",
+    "original": "https://redteams.ai/glossary?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/glossary?_rsc=82y4c",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/glossary?_rsc=9i30s",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/glossary?_rsc=cycxm",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123809",
+    "original": "https://redteams.ai/glossary?_rsc=dji66",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/glossary?_rsc=e8i4l",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123815",
+    "original": "https://redteams.ai/glossary?_rsc=ikj1c",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/glossary?_rsc=jtk8k",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123803",
+    "original": "https://redteams.ai/glossary?_rsc=k7op6",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/glossary?_rsc=l7v52",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/glossary?_rsc=m47q1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123808",
+    "original": "https://redteams.ai/glossary?_rsc=mfj54",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/glossary?_rsc=nasgd",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062254",
+    "original": "https://redteams.ai/glossary?_rsc=o0pqi",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260506150350",
+    "original": "https://redteams.ai/glossary?_rsc=p37cr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/glossary?_rsc=ubpnr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/glossary?_rsc=xabo0",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/glossary?_rsc=xrzkl",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123803",
+    "original": "https://redteams.ai/glossary?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/glossary?_rsc=znemq",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062251",
+    "original": "https://redteams.ai/icon0.svg?icon0.0kjzdy~hidzfq.svg",
+    "statuscode": "200",
+    "mimetype": "image/svg+xml"
+  },
+  {
+    "timestamp": "20260401062306",
+    "original": "https://redteams.ai/icon0.svg?icon0.0kjzdy~hidzfq.svg=",
+    "statuscode": "200",
+    "mimetype": "image/svg+xml"
+  },
+  {
+    "timestamp": "20260414123808",
+    "original": "https://redteams.ai/icon1.png",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260401062306",
+    "original": "https://redteams.ai/icon1.png?icon1.0_4nkr.0hrg-k.png=",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260414123809",
+    "original": "https://redteams.ai/imprint",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/imprint?_rsc=12ql1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/imprint?_rsc=13rrt",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/imprint?_rsc=179xv",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123806",
+    "original": "https://redteams.ai/imprint?_rsc=1bwhd",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/imprint?_rsc=1eccg",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/imprint?_rsc=1f5ql",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123806",
+    "original": "https://redteams.ai/imprint?_rsc=1i3ya",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123826",
+    "original": "https://redteams.ai/imprint?_rsc=1j26u",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/imprint?_rsc=1pgi2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123742",
+    "original": "https://redteams.ai/imprint?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123739",
+    "original": "https://redteams.ai/imprint?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/imprint?_rsc=1s3ki",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/imprint?_rsc=1sqe1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123742",
+    "original": "https://redteams.ai/imprint?_rsc=1uwf4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123815",
+    "original": "https://redteams.ai/imprint?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/imprint?_rsc=1vn4i",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/imprint?_rsc=1vzwj",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/imprint?_rsc=1wkxe",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123759",
+    "original": "https://redteams.ai/imprint?_rsc=2q2fc",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/imprint?_rsc=5i6bo",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/imprint?_rsc=604gx",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/imprint?_rsc=68it7",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095927",
+    "original": "https://redteams.ai/imprint?_rsc=6j9j2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/imprint?_rsc=6n9o9",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095926",
+    "original": "https://redteams.ai/imprint?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/imprint?_rsc=82y4c",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/imprint?_rsc=arxjk",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123803",
+    "original": "https://redteams.ai/imprint?_rsc=atu73",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/imprint?_rsc=c19lz",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/imprint?_rsc=cycxm",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/imprint?_rsc=deral",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/imprint?_rsc=dji66",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/imprint?_rsc=e9kjy",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123742",
+    "original": "https://redteams.ai/imprint?_rsc=feihy",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/imprint?_rsc=idfzu",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123803",
+    "original": "https://redteams.ai/imprint?_rsc=k7op6",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/imprint?_rsc=m47q1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123803",
+    "original": "https://redteams.ai/imprint?_rsc=mfj54",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123821",
+    "original": "https://redteams.ai/imprint?_rsc=nasgd",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260506150349",
+    "original": "https://redteams.ai/imprint?_rsc=p37cr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/imprint?_rsc=srute",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/imprint?_rsc=wulx3",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/imprint?_rsc=xabo0",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/imprint?_rsc=xrzkl",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123758",
+    "original": "https://redteams.ai/imprint?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062306",
+    "original": "https://redteams.ai/manifest.json",
+    "statuscode": "200",
+    "mimetype": "application/manifest+json"
+  },
+  {
+    "timestamp": "20260414123758",
+    "original": "https://redteams.ai/methodology",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/methodology?_rsc=11452",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/methodology?_rsc=12epu",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/methodology?_rsc=13rrt",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/methodology?_rsc=1b6v4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/methodology?_rsc=1f7dp",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123743",
+    "original": "https://redteams.ai/methodology?_rsc=1i08b",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/methodology?_rsc=1i3ya",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/methodology?_rsc=1j26u",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/methodology?_rsc=1pgi2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123743",
+    "original": "https://redteams.ai/methodology?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123740",
+    "original": "https://redteams.ai/methodology?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123817",
+    "original": "https://redteams.ai/methodology?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/methodology?_rsc=1wbkg",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095927",
+    "original": "https://redteams.ai/methodology?_rsc=6j9j2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123831",
+    "original": "https://redteams.ai/methodology?_rsc=6n9o9",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123743",
+    "original": "https://redteams.ai/methodology?_rsc=7a6vx",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095926",
+    "original": "https://redteams.ai/methodology?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/methodology?_rsc=82y4c",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/methodology?_rsc=cycxm",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/methodology?_rsc=dji66",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/methodology?_rsc=ey0hy",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/methodology?_rsc=gaif5",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/methodology?_rsc=gobpl",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/methodology?_rsc=k7op6",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/methodology?_rsc=m47q1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123806",
+    "original": "https://redteams.ai/methodology?_rsc=mfj54",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123827",
+    "original": "https://redteams.ai/methodology?_rsc=nasgd",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260506150350",
+    "original": "https://redteams.ai/methodology?_rsc=p37cr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/methodology?_rsc=tjb1f",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/methodology?_rsc=udr2v",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123806",
+    "original": "https://redteams.ai/methodology?_rsc=xabo0",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/methodology?_rsc=xrzkl",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/methodology?_rsc=ygrp5",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123801",
+    "original": "https://redteams.ai/methodology?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123806",
+    "original": "https://redteams.ai/methodology?_rsc=ztdfz",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062301",
+    "original": "https://redteams.ai/navigator",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/navigator?_rsc=13rrt",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/navigator?_rsc=15zi0",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123815",
+    "original": "https://redteams.ai/navigator?_rsc=1c7yb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/navigator?_rsc=1i3ya",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123822",
+    "original": "https://redteams.ai/navigator?_rsc=1j26u",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/navigator?_rsc=1n0f7",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123815",
+    "original": "https://redteams.ai/navigator?_rsc=1pgi2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062256",
+    "original": "https://redteams.ai/navigator?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123815",
+    "original": "https://redteams.ai/navigator?_rsc=1r11c",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062251",
+    "original": "https://redteams.ai/navigator?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/navigator?_rsc=1tvif",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/navigator?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/navigator?_rsc=1yf02",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062256",
+    "original": "https://redteams.ai/navigator?_rsc=26qlq",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123802",
+    "original": "https://redteams.ai/navigator?_rsc=2q2fc",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095925",
+    "original": "https://redteams.ai/navigator?_rsc=6j9j2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095924",
+    "original": "https://redteams.ai/navigator?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062256",
+    "original": "https://redteams.ai/navigator?_rsc=7xzzp",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/navigator?_rsc=82y4c",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/navigator?_rsc=9nhe0",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/navigator?_rsc=cycxm",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/navigator?_rsc=dji66",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123802",
+    "original": "https://redteams.ai/navigator?_rsc=k7op6",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/navigator?_rsc=l5vde",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/navigator?_rsc=m47q1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123818",
+    "original": "https://redteams.ai/navigator?_rsc=nasgd",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123826",
+    "original": "https://redteams.ai/navigator?_rsc=ns7ve",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260506150351",
+    "original": "https://redteams.ai/navigator?_rsc=p37cr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/navigator?_rsc=xabo0",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/navigator?_rsc=xnxtx",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/navigator?_rsc=xrzkl",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123757",
+    "original": "https://redteams.ai/navigator?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123809",
+    "original": "https://redteams.ai/opengraph-image?635130b28a787d82=",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260401062301",
+    "original": "https://redteams.ai/playground",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/playground?_rsc=123s2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/playground?_rsc=1egeu",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/playground?_rsc=1i3ya",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123822",
+    "original": "https://redteams.ai/playground?_rsc=1j26u",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062255",
+    "original": "https://redteams.ai/playground?_rsc=1jz5q",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123815",
+    "original": "https://redteams.ai/playground?_rsc=1lbzl",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/playground?_rsc=1pgi2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062255",
+    "original": "https://redteams.ai/playground?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062251",
+    "original": "https://redteams.ai/playground?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/playground?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/playground?_rsc=2ojkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123802",
+    "original": "https://redteams.ai/playground?_rsc=2q2fc",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062256",
+    "original": "https://redteams.ai/playground?_rsc=31s0m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/playground?_rsc=3yfn8",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095925",
+    "original": "https://redteams.ai/playground?_rsc=6j9j2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095924",
+    "original": "https://redteams.ai/playground?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/playground?_rsc=82y4c",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/playground?_rsc=8xf6w",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/playground?_rsc=cycxm",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/playground?_rsc=dji66",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/playground?_rsc=ezchw",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123802",
+    "original": "https://redteams.ai/playground?_rsc=k7op6",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/playground?_rsc=kg7yi",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/playground?_rsc=m47q1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123818",
+    "original": "https://redteams.ai/playground?_rsc=nasgd",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123826",
+    "original": "https://redteams.ai/playground?_rsc=ns7ve",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260506150351",
+    "original": "https://redteams.ai/playground?_rsc=p37cr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/playground?_rsc=xabo0",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/playground?_rsc=xrzkl",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/playground?_rsc=yvere",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123757",
+    "original": "https://redteams.ai/playground?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/playground?_rsc=zsz4u",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123800",
+    "original": "https://redteams.ai/privacy",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/privacy?_rsc=107oq",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123742",
+    "original": "https://redteams.ai/privacy?_rsc=1148h",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123830",
+    "original": "https://redteams.ai/privacy?_rsc=12ql1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/privacy?_rsc=13rrt",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/privacy?_rsc=14yjc",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/privacy?_rsc=1b6yk",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123806",
+    "original": "https://redteams.ai/privacy?_rsc=1i3ya",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123827",
+    "original": "https://redteams.ai/privacy?_rsc=1j26u",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/privacy?_rsc=1pgi2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123741",
+    "original": "https://redteams.ai/privacy?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123739",
+    "original": "https://redteams.ai/privacy?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123815",
+    "original": "https://redteams.ai/privacy?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123742",
+    "original": "https://redteams.ai/privacy?_rsc=1v2tv",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/privacy?_rsc=1ytgu",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123759",
+    "original": "https://redteams.ai/privacy?_rsc=2q2fc",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095927",
+    "original": "https://redteams.ai/privacy?_rsc=6j9j2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/privacy?_rsc=6n9o9",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095926",
+    "original": "https://redteams.ai/privacy?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/privacy?_rsc=82y4c",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/privacy?_rsc=87ia9",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/privacy?_rsc=cycxm",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/privacy?_rsc=dhr8t",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123806",
+    "original": "https://redteams.ai/privacy?_rsc=dji66",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/privacy?_rsc=fe23z",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/privacy?_rsc=hfwwb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/privacy?_rsc=m47q1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/privacy?_rsc=mfj54",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123821",
+    "original": "https://redteams.ai/privacy?_rsc=nasgd",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123741",
+    "original": "https://redteams.ai/privacy?_rsc=nn07o",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260506150350",
+    "original": "https://redteams.ai/privacy?_rsc=p37cr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/privacy?_rsc=pv2ds",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/privacy?_rsc=ql5cc",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/privacy?_rsc=srute",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/privacy?_rsc=wgjjf",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/privacy?_rsc=xabo0",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/privacy?_rsc=xrzkl",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/privacy?_rsc=ybdvs",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123758",
+    "original": "https://redteams.ai/privacy?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062301",
+    "original": "https://redteams.ai/resources",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/resources?_rsc=11whv",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/resources?_rsc=13rrt",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/resources?_rsc=17tqd",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062255",
+    "original": "https://redteams.ai/resources?_rsc=1amky",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/resources?_rsc=1gy3u",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123822",
+    "original": "https://redteams.ai/resources?_rsc=1j26u",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/resources?_rsc=1jk1y",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/resources?_rsc=1jx5v",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/resources?_rsc=1pgi2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062255",
+    "original": "https://redteams.ai/resources?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062251",
+    "original": "https://redteams.ai/resources?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/resources?_rsc=1t23l",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/resources?_rsc=1tetk",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/resources?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123802",
+    "original": "https://redteams.ai/resources?_rsc=2q2fc",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/resources?_rsc=544y1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095925",
+    "original": "https://redteams.ai/resources?_rsc=6j9j2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095924",
+    "original": "https://redteams.ai/resources?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/resources?_rsc=82y4c",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/resources?_rsc=cycxm",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123810",
+    "original": "https://redteams.ai/resources?_rsc=dji66",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/resources?_rsc=eiwmr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/resources?_rsc=eum6v",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123802",
+    "original": "https://redteams.ai/resources?_rsc=k7op6",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/resources?_rsc=m47q1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/resources?_rsc=mrp1j",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/resources?_rsc=n03q2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123818",
+    "original": "https://redteams.ai/resources?_rsc=nasgd",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123826",
+    "original": "https://redteams.ai/resources?_rsc=ns7ve",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260506150351",
+    "original": "https://redteams.ai/resources?_rsc=p37cr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/resources?_rsc=xabo0",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/resources?_rsc=xrzkl",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123757",
+    "original": "https://redteams.ai/resources?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062255",
+    "original": "https://redteams.ai/resources?_rsc=zwe16",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062249",
+    "original": "https://redteams.ai/soar/static/logo.png",
+    "statuscode": "200",
+    "mimetype": "image/png"
+  },
+  {
+    "timestamp": "20260401062301",
+    "original": "https://redteams.ai/tags",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123832",
+    "original": "https://redteams.ai/tags/ai-security",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123822",
+    "original": "https://redteams.ai/tags/ai-security?_rsc=12ql1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123833",
+    "original": "https://redteams.ai/tags/api-security",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260402060159",
+    "original": "https://redteams.ai/tags/architecture?_rsc=ys8k1",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123824",
+    "original": "https://redteams.ai/tags/assessment",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095925",
+    "original": "https://redteams.ai/tags/canary-words?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/tags/case-studies",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/tags/chatgpt",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123819",
+    "original": "https://redteams.ai/tags/chatgpt?_rsc=nasgd",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123819",
+    "original": "https://redteams.ai/tags/data-exfiltration?_rsc=nasgd",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123832",
+    "original": "https://redteams.ai/tags/data-extraction",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123822",
+    "original": "https://redteams.ai/tags/data-extraction?_rsc=12ql1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123832",
+    "original": "https://redteams.ai/tags/data-poisoning",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123822",
+    "original": "https://redteams.ai/tags/data-poisoning?_rsc=12ql1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095934",
+    "original": "https://redteams.ai/tags/defense",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095925",
+    "original": "https://redteams.ai/tags/defense?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095924",
+    "original": "https://redteams.ai/tags/detection?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260402060225",
+    "original": "https://redteams.ai/tags/exploit-primitives?_rsc=ys8k1",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260402060201",
+    "original": "https://redteams.ai/tags/internals?_rsc=ys8k1",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123824",
+    "original": "https://redteams.ai/tags/methodology",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123833",
+    "original": "https://redteams.ai/tags/mlops",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095934",
+    "original": "https://redteams.ai/tags/monitoring",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095925",
+    "original": "https://redteams.ai/tags/monitoring?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123819",
+    "original": "https://redteams.ai/tags/oauth?_rsc=nasgd",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/tags/plugins",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123820",
+    "original": "https://redteams.ai/tags/plugins?_rsc=nasgd",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123824",
+    "original": "https://redteams.ai/tags/red-teaming",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123832",
+    "original": "https://redteams.ai/tags/training-data",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123822",
+    "original": "https://redteams.ai/tags/training-data?_rsc=12ql1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260402060159",
+    "original": "https://redteams.ai/tags/transformers?_rsc=ys8k1",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/tags?_rsc=113up",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062254",
+    "original": "https://redteams.ai/tags?_rsc=12fu5",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/tags?_rsc=13rrt",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123808",
+    "original": "https://redteams.ai/tags?_rsc=16ykm",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062253",
+    "original": "https://redteams.ai/tags?_rsc=1f1hr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/tags?_rsc=1fudb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/tags?_rsc=1getf",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/tags?_rsc=1i3ya",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/tags?_rsc=1ires",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/tags?_rsc=1j26u",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/tags?_rsc=1oaqe",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/tags?_rsc=1pgi2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062253",
+    "original": "https://redteams.ai/tags?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062252",
+    "original": "https://redteams.ai/tags?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123816",
+    "original": "https://redteams.ai/tags?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/tags?_rsc=1xhxf",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123801",
+    "original": "https://redteams.ai/tags?_rsc=2q2fc",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123809",
+    "original": "https://redteams.ai/tags?_rsc=64fmj",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/tags?_rsc=6c97u",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095927",
+    "original": "https://redteams.ai/tags?_rsc=6j9j2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095926",
+    "original": "https://redteams.ai/tags?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/tags?_rsc=82y4c",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/tags?_rsc=cycxm",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/tags?_rsc=dji66",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/tags?_rsc=etcwv",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/tags?_rsc=k7op6",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/tags?_rsc=m47q1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/tags?_rsc=mfj54",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123827",
+    "original": "https://redteams.ai/tags?_rsc=nasgd",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260506150351",
+    "original": "https://redteams.ai/tags?_rsc=p37cr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/tags?_rsc=vl6sa",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/tags?_rsc=xabo0",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/tags?_rsc=xrzkl",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123801",
+    "original": "https://redteams.ai/tags?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/tags?_rsc=zmzjt",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123809",
+    "original": "https://redteams.ai/terms",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123808",
+    "original": "https://redteams.ai/terms?_rsc=111zr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/terms?_rsc=12ql1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/terms?_rsc=13rrt",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/terms?_rsc=18hbb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123742",
+    "original": "https://redteams.ai/terms?_rsc=1c3r4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/terms?_rsc=1c9ji",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123808",
+    "original": "https://redteams.ai/terms?_rsc=1gdhe",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123806",
+    "original": "https://redteams.ai/terms?_rsc=1i3ya",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123827",
+    "original": "https://redteams.ai/terms?_rsc=1j26u",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123808",
+    "original": "https://redteams.ai/terms?_rsc=1lvme",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/terms?_rsc=1lyj7",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/terms?_rsc=1pgi2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123742",
+    "original": "https://redteams.ai/terms?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/terms?_rsc=1q8if",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123739",
+    "original": "https://redteams.ai/terms?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123815",
+    "original": "https://redteams.ai/terms?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/terms?_rsc=25zzb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123759",
+    "original": "https://redteams.ai/terms?_rsc=2q2fc",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/terms?_rsc=4f2rg",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123742",
+    "original": "https://redteams.ai/terms?_rsc=4yukr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/terms?_rsc=6n9o9",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095926",
+    "original": "https://redteams.ai/terms?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/terms?_rsc=82y4c",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/terms?_rsc=cqgcr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/terms?_rsc=cycxm",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/terms?_rsc=dji66",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123803",
+    "original": "https://redteams.ai/terms?_rsc=k7op6",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/terms?_rsc=m2muy",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/terms?_rsc=m47q1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/terms?_rsc=mfj54",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123821",
+    "original": "https://redteams.ai/terms?_rsc=nasgd",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123831",
+    "original": "https://redteams.ai/terms?_rsc=ns7ve",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260506150350",
+    "original": "https://redteams.ai/terms?_rsc=p37cr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/terms?_rsc=ue0g9",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/terms?_rsc=xabo0",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/terms?_rsc=xrzkl",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062301",
+    "original": "https://redteams.ai/topics",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062301",
+    "original": "https://redteams.ai/topics/agent-exploitation",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260506150357",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-delegation-attacks",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123746",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-delegation-attacks?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123746",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-delegation-attacks?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123747",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-delegation-attacks?_rsc=1vusa",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123746",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-delegation-attacks?_rsc=iwhoh",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062301",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-identity-credential-theft",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062255",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-identity-credential-theft?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062252",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-identity-credential-theft?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062255",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-identity-credential-theft?_rsc=1vusa",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062255",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-identity-credential-theft?_rsc=iwhoh",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062301",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-memory-poisoning",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062254",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-memory-poisoning?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062252",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-memory-poisoning?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062255",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-memory-poisoning?_rsc=1vusa",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062254",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-memory-poisoning?_rsc=iwhoh",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062301",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-supply-chain-attacks",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062254",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-supply-chain-attacks?_rsc=1ffjg",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062254",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-supply-chain-attacks?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062252",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-supply-chain-attacks?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062254",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-supply-chain-attacks?_rsc=1vusa",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062254",
+    "original": "https://redteams.ai/topics/agent-exploitation/agent-supply-chain-attacks?_rsc=iwhoh",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/topics/agent-exploitation/mcp-security-testing?_rsc=12ql1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/topics/agent-exploitation/tool-abuse?_rsc=ns7ve",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123748",
+    "original": "https://redteams.ai/topics/agent-exploitation?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123738",
+    "original": "https://redteams.ai/topics/agent-exploitation?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123748",
+    "original": "https://redteams.ai/topics/agent-exploitation?_rsc=1vusa",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123748",
+    "original": "https://redteams.ai/topics/agent-exploitation?_rsc=iwhoh",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062303",
+    "original": "https://redteams.ai/topics/agentic-exploitation",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/topics/ai-forensics-ir",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260506150357",
+    "original": "https://redteams.ai/topics/ai-forensics-ir/ai-red-team-evidence-collection",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260506150351",
+    "original": "https://redteams.ai/topics/ai-forensics-ir/ai-red-team-evidence-collection?_rsc=1ob4h",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123746",
+    "original": "https://redteams.ai/topics/ai-forensics-ir/ai-red-team-evidence-collection?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123745",
+    "original": "https://redteams.ai/topics/ai-forensics-ir/ai-red-team-evidence-collection?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123746",
+    "original": "https://redteams.ai/topics/ai-forensics-ir/ai-red-team-evidence-collection?_rsc=1vusa",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123746",
+    "original": "https://redteams.ai/topics/ai-forensics-ir/ai-red-team-evidence-collection?_rsc=iwhoh",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/topics/ai-forensics-ir?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062306",
+    "original": "https://redteams.ai/topics/assessments",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123817",
+    "original": "https://redteams.ai/topics/assessments/section-assessments/assessment-llm-fingerprinting?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123802",
+    "original": "https://redteams.ai/topics/assessments?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062301",
+    "original": "https://redteams.ai/topics/capstone",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260506150351",
+    "original": "https://redteams.ai/topics/capstone/capstone-ai-safety-benchmark?_rsc=1o2ly",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123745",
+    "original": "https://redteams.ai/topics/capstone/capstone-ai-safety-benchmark?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123738",
+    "original": "https://redteams.ai/topics/capstone/capstone-ai-safety-benchmark?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123745",
+    "original": "https://redteams.ai/topics/capstone/capstone-ai-safety-benchmark?_rsc=1vusa",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123745",
+    "original": "https://redteams.ai/topics/capstone/capstone-ai-safety-benchmark?_rsc=iwhoh",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123824",
+    "original": "https://redteams.ai/topics/capstone/execution-reporting",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123747",
+    "original": "https://redteams.ai/topics/capstone?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062251",
+    "original": "https://redteams.ai/topics/capstone?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123747",
+    "original": "https://redteams.ai/topics/capstone?_rsc=1vusa",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123747",
+    "original": "https://redteams.ai/topics/capstone?_rsc=iwhoh",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/topics/case-studies",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/topics/case-studies/case-study-ai-generated-code-vulns",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/topics/case-studies/case-study-ai-generated-malware",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/topics/case-studies/case-study-alignment-faking",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123815",
+    "original": "https://redteams.ai/topics/case-studies/case-study-chatgpt-plugin-exploits",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123744",
+    "original": "https://redteams.ai/topics/case-studies/case-study-chatgpt-plugin-exploits?_rsc=1ffjg",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123744",
+    "original": "https://redteams.ai/topics/case-studies/case-study-chatgpt-plugin-exploits?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123741",
+    "original": "https://redteams.ai/topics/case-studies/case-study-chatgpt-plugin-exploits?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123745",
+    "original": "https://redteams.ai/topics/case-studies/case-study-chatgpt-plugin-exploits?_rsc=1vusa",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123744",
+    "original": "https://redteams.ai/topics/case-studies/case-study-chatgpt-plugin-exploits?_rsc=iwhoh",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/topics/case-studies/case-study-claude-many-shot",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/topics/case-studies/case-study-deepseek-safety-analysis",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/topics/case-studies/case-study-gcg-attack-impact",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/topics/case-studies/case-study-gpt4-early-jailbreaks",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/topics/case-studies/case-study-healthcare-ai-failures",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/topics/case-studies/case-study-lawyer-hallucinated-citations",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/topics/case-studies/case-study-mcp-early-vulnerabilities",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/topics/case-studies/case-study-prompt-injection-google-bard",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/topics/case-studies/case-study-prompt-injection-wild",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/topics/case-studies/case-study-rag-poisoning-production",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/topics/case-studies/case-study-samsung-data-leak",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062302",
+    "original": "https://redteams.ai/topics/cloud-ai-security",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123824",
+    "original": "https://redteams.ai/topics/cloud-ai-security/cloud-ai-network-isolation",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123815",
+    "original": "https://redteams.ai/topics/cloud-ai-security/cloud-ai-network-isolation?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062306",
+    "original": "https://redteams.ai/topics/code-gen-security",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/topics/code-gen-security?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062306",
+    "original": "https://redteams.ai/topics/community-challenges",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123802",
+    "original": "https://redteams.ai/topics/community-challenges?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062303",
+    "original": "https://redteams.ai/topics/data-training",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062304",
+    "original": "https://redteams.ai/topics/defense-mitigation",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095934",
+    "original": "https://redteams.ai/topics/defense-mitigation/agent-permission-model-design",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095934",
+    "original": "https://redteams.ai/topics/defense-mitigation/confidential-computing-llm",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095934",
+    "original": "https://redteams.ai/topics/defense-mitigation/defense-in-depth-llm-apps",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095934",
+    "original": "https://redteams.ai/topics/defense-mitigation/incident-response-playbook-ai",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095934",
+    "original": "https://redteams.ai/topics/defense-mitigation/input-validation-architecture",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095934",
+    "original": "https://redteams.ai/topics/defense-mitigation/llm-honeypot-techniques",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095926",
+    "original": "https://redteams.ai/topics/defense-mitigation/llm-monitoring-anomaly-detection?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095928",
+    "original": "https://redteams.ai/topics/defense-mitigation/llm-monitoring-anomaly-detection?_rsc=alvps",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095934",
+    "original": "https://redteams.ai/topics/defense-mitigation/prompt-injection-canary-system",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095934",
+    "original": "https://redteams.ai/topics/defense-mitigation/prompt-injection-detection-ml",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095934",
+    "original": "https://redteams.ai/topics/defense-mitigation/red-team-as-service-model",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095934",
+    "original": "https://redteams.ai/topics/defense-mitigation/w2-adaptive-defense-systems",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095922",
+    "original": "https://redteams.ai/topics/defense-mitigation/w2-canary-word-monitoring",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095934",
+    "original": "https://redteams.ai/topics/defense-mitigation/w2-context-isolation-patterns",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095934",
+    "original": "https://redteams.ai/topics/defense-mitigation/w2-defense-evaluation-methodology",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095926",
+    "original": "https://redteams.ai/topics/defense-mitigation/w2-llm-firewall-architecture?_rsc=15s62",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095925",
+    "original": "https://redteams.ai/topics/defense-mitigation/w2-llm-firewall-architecture?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095934",
+    "original": "https://redteams.ai/topics/defense-mitigation/w2-output-watermarking-defense",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095926",
+    "original": "https://redteams.ai/topics/defense-mitigation/w2-privacy-preserving-inference?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095927",
+    "original": "https://redteams.ai/topics/defense-mitigation/w2-privacy-preserving-inference?_rsc=d399r",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095934",
+    "original": "https://redteams.ai/topics/defense-mitigation/w2-realtime-safety-monitoring",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095934",
+    "original": "https://redteams.ai/topics/defense-mitigation/w2-token-level-anomaly-detection",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095934",
+    "original": "https://redteams.ai/topics/defense-mitigation/w2-user-intent-classification",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095927",
+    "original": "https://redteams.ai/topics/defense-mitigation?_rsc=1pos1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095926",
+    "original": "https://redteams.ai/topics/defense-mitigation?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062303",
+    "original": "https://redteams.ai/topics/defense-overview",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062306",
+    "original": "https://redteams.ai/topics/embedding-vector-security",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123802",
+    "original": "https://redteams.ai/topics/embedding-vector-security?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062301",
+    "original": "https://redteams.ai/topics/exploit-dev",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123747",
+    "original": "https://redteams.ai/topics/exploit-dev?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062252",
+    "original": "https://redteams.ai/topics/exploit-dev?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123747",
+    "original": "https://redteams.ai/topics/exploit-dev?_rsc=1vusa",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123747",
+    "original": "https://redteams.ai/topics/exploit-dev?_rsc=iwhoh",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062306",
+    "original": "https://redteams.ai/topics/fine-tuning-security",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/topics/fine-tuning-security?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062302",
+    "original": "https://redteams.ai/topics/foundations",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123854",
+    "original": "https://redteams.ai/topics/foundations/embeddings",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123832",
+    "original": "https://redteams.ai/topics/foundations/embeddings/rag-architecture",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/topics/frontier-research",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/topics/governance-compliance",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/topics/impact",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/topics/industry-verticals",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062301",
+    "original": "https://redteams.ai/topics/infrastructure",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123833",
+    "original": "https://redteams.ai/topics/infrastructure/ai-supply-chain-incident-response",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123746",
+    "original": "https://redteams.ai/topics/infrastructure/ai-supply-chain-incident-response?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123746",
+    "original": "https://redteams.ai/topics/infrastructure/ai-supply-chain-incident-response?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123747",
+    "original": "https://redteams.ai/topics/infrastructure/ai-supply-chain-incident-response?_rsc=1vusa",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123747",
+    "original": "https://redteams.ai/topics/infrastructure/ai-supply-chain-incident-response?_rsc=iwhoh",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123833",
+    "original": "https://redteams.ai/topics/infrastructure/ai-workload-isolation",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123837",
+    "original": "https://redteams.ai/topics/infrastructure/api-security",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123833",
+    "original": "https://redteams.ai/topics/infrastructure/distributed-training-security",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123833",
+    "original": "https://redteams.ai/topics/infrastructure/federated-learning-security",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123833",
+    "original": "https://redteams.ai/topics/infrastructure/gpu-sharing-isolation",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123833",
+    "original": "https://redteams.ai/topics/infrastructure/ml-data-lake-security",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123833",
+    "original": "https://redteams.ai/topics/infrastructure/ml-experiment-infrastructure-security",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123833",
+    "original": "https://redteams.ai/topics/infrastructure/model-artifact-integrity",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123833",
+    "original": "https://redteams.ai/topics/infrastructure/model-supply-chain",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123833",
+    "original": "https://redteams.ai/topics/infrastructure/model-weight-encryption",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123833",
+    "original": "https://redteams.ai/topics/infrastructure/secrets-management-ai-apps",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123833",
+    "original": "https://redteams.ai/topics/infrastructure/storage-security-training-data",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123833",
+    "original": "https://redteams.ai/topics/infrastructure/training-cluster-network-security",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123833",
+    "original": "https://redteams.ai/topics/infrastructure/vector-database-security",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123748",
+    "original": "https://redteams.ai/topics/infrastructure?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123738",
+    "original": "https://redteams.ai/topics/infrastructure?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123748",
+    "original": "https://redteams.ai/topics/infrastructure?_rsc=1vusa",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123748",
+    "original": "https://redteams.ai/topics/infrastructure?_rsc=iwhoh",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062303",
+    "original": "https://redteams.ai/topics/injection-research",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062303",
+    "original": "https://redteams.ai/topics/internals",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062304",
+    "original": "https://redteams.ai/topics/labs",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123848",
+    "original": "https://redteams.ai/topics/labs/ctf",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123832",
+    "original": "https://redteams.ai/topics/labs/ctf/ctf-rag-heist",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062301",
+    "original": "https://redteams.ai/topics/llm-internals",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123837",
+    "original": "https://redteams.ai/topics/llm-internals/attention-exploitation",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260402060218",
+    "original": "https://redteams.ai/topics/llm-internals/attention-exploitation?_rsc=ys8k1",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123837",
+    "original": "https://redteams.ai/topics/llm-internals/tokenization-attacks",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/topics/llm-internals/tokenization-attacks?_rsc=ns7ve",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123738",
+    "original": "https://redteams.ai/topics/llm-internals?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/topics/llm-internals?_rsc=ns7ve",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/topics/llmops-security",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/topics/llmops-security?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062306",
+    "original": "https://redteams.ai/topics/model-deep-dives",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123804",
+    "original": "https://redteams.ai/topics/model-deep-dives?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062304",
+    "original": "https://redteams.ai/topics/multimodal",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123817",
+    "original": "https://redteams.ai/topics/multimodal/multimodal-red-teaming-methodology?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/topics/professional",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062301",
+    "original": "https://redteams.ai/topics/prompt-injection",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123824",
+    "original": "https://redteams.ai/topics/prompt-injection/defense-evasion",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123832",
+    "original": "https://redteams.ai/topics/prompt-injection/indirect-injection",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123837",
+    "original": "https://redteams.ai/topics/prompt-injection/jailbreak-techniques",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123749",
+    "original": "https://redteams.ai/topics/prompt-injection?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123738",
+    "original": "https://redteams.ai/topics/prompt-injection?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123749",
+    "original": "https://redteams.ai/topics/prompt-injection?_rsc=iwhoh",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062301",
+    "original": "https://redteams.ai/topics/rag-data-attacks",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123832",
+    "original": "https://redteams.ai/topics/rag-data-attacks/chunk-boundary-attacks",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123832",
+    "original": "https://redteams.ai/topics/rag-data-attacks/data-extraction",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/topics/rag-data-attacks/data-extraction?_rsc=ns7ve",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123832",
+    "original": "https://redteams.ai/topics/rag-data-attacks/knowledge-base-poisoning",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123832",
+    "original": "https://redteams.ai/topics/rag-data-attacks/metadata-injection",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123832",
+    "original": "https://redteams.ai/topics/rag-data-attacks/rag-poisoning",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123828",
+    "original": "https://redteams.ai/topics/rag-data-attacks/rag-poisoning?_rsc=12ql1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123832",
+    "original": "https://redteams.ai/topics/rag-data-attacks/retrieval-manipulation",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123748",
+    "original": "https://redteams.ai/topics/rag-data-attacks?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123738",
+    "original": "https://redteams.ai/topics/rag-data-attacks?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123748",
+    "original": "https://redteams.ai/topics/rag-data-attacks?_rsc=1vusa",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123748",
+    "original": "https://redteams.ai/topics/rag-data-attacks?_rsc=iwhoh",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062301",
+    "original": "https://redteams.ai/topics/recon-tradecraft",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123824",
+    "original": "https://redteams.ai/topics/recon-tradecraft/api-enumeration",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123824",
+    "original": "https://redteams.ai/topics/recon-tradecraft/attack-surface-mapping",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123820",
+    "original": "https://redteams.ai/topics/recon-tradecraft/attack-surface-mapping?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123819",
+    "original": "https://redteams.ai/topics/recon-tradecraft/capability-mapping?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123819",
+    "original": "https://redteams.ai/topics/recon-tradecraft/llm-api-enumeration?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123824",
+    "original": "https://redteams.ai/topics/recon-tradecraft/model-identification",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123821",
+    "original": "https://redteams.ai/topics/recon-tradecraft/osint-for-ai?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123817",
+    "original": "https://redteams.ai/topics/recon-tradecraft/prompt-discovery?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123820",
+    "original": "https://redteams.ai/topics/recon-tradecraft/shadow-ai-detection?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123823",
+    "original": "https://redteams.ai/topics/recon-tradecraft/social-engineering-ai?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123815",
+    "original": "https://redteams.ai/topics/recon-tradecraft/target-profiling?_rsc=1uygn",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123747",
+    "original": "https://redteams.ai/topics/recon-tradecraft?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062252",
+    "original": "https://redteams.ai/topics/recon-tradecraft?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123748",
+    "original": "https://redteams.ai/topics/recon-tradecraft?_rsc=1vusa",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123747",
+    "original": "https://redteams.ai/topics/recon-tradecraft?_rsc=iwhoh",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062305",
+    "original": "https://redteams.ai/topics/references",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062304",
+    "original": "https://redteams.ai/topics/tradecraft",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123824",
+    "original": "https://redteams.ai/topics/tradecraft/advanced-recon",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062304",
+    "original": "https://redteams.ai/topics/training-pipeline",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260401062306",
+    "original": "https://redteams.ai/topics/walkthroughs",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260429095928",
+    "original": "https://redteams.ai/topics/walkthroughs/defense/canary-token-deployment?_rsc=146mw",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095927",
+    "original": "https://redteams.ai/topics/walkthroughs/defense/canary-token-deployment?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123802",
+    "original": "https://redteams.ai/topics/walkthroughs?_rsc=zflkb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260506150425",
+    "original": "https://redteams.ai/topics/zh-TW",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260506150405",
+    "original": "https://redteams.ai/topics/zh-TW/agent-exploitation",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260506150357",
+    "original": "https://redteams.ai/topics/zh-TW/agent-exploitation/agent-delegation-attacks",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260506150350",
+    "original": "https://redteams.ai/topics/zh-TW/agent-exploitation/agent-delegation-attacks?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260506150351",
+    "original": "https://redteams.ai/topics/zh-TW/agent-exploitation/agent-delegation-attacks?_rsc=urya0",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095928",
+    "original": "https://redteams.ai/topics/zh-TW/defense-mitigation/w2-canary-word-monitoring?_rsc=1hkeb",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095927",
+    "original": "https://redteams.ai/topics/zh-TW/defense-mitigation/w2-canary-word-monitoring?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095928",
+    "original": "https://redteams.ai/topics/zh-TW/walkthroughs/defense/canary-token-deployment?_rsc=1jj94",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095927",
+    "original": "https://redteams.ai/topics/zh-TW/walkthroughs/defense/canary-token-deployment?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062303",
+    "original": "https://redteams.ai/topics/%7Bsearch_term_string%7D",
+    "statuscode": "200",
+    "mimetype": "text/html"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/topics?_rsc=135is",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/topics?_rsc=13rrt",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123805",
+    "original": "https://redteams.ai/topics?_rsc=1i3ya",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/topics?_rsc=1nz5f",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123817",
+    "original": "https://redteams.ai/topics?_rsc=1pgi2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062256",
+    "original": "https://redteams.ai/topics?_rsc=1pn8p",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062253",
+    "original": "https://redteams.ai/topics?_rsc=1r34m",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/topics?_rsc=1sljq",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/topics?_rsc=1vlw7",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123817",
+    "original": "https://redteams.ai/topics?_rsc=2mewu",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123802",
+    "original": "https://redteams.ai/topics?_rsc=2q2fc",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095925",
+    "original": "https://redteams.ai/topics?_rsc=6j9j2",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/topics?_rsc=7rdy0",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260429095925",
+    "original": "https://redteams.ai/topics?_rsc=7rpa4",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123813",
+    "original": "https://redteams.ai/topics?_rsc=82y4c",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/topics?_rsc=cycxm",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/topics?_rsc=dji66",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/topics?_rsc=heesr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123817",
+    "original": "https://redteams.ai/topics?_rsc=i88yd",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260401062256",
+    "original": "https://redteams.ai/topics?_rsc=k79e7",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123803",
+    "original": "https://redteams.ai/topics?_rsc=k7op6",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123815",
+    "original": "https://redteams.ai/topics?_rsc=k9z0c",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123811",
+    "original": "https://redteams.ai/topics?_rsc=m47q1",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260506150351",
+    "original": "https://redteams.ai/topics?_rsc=p37cr",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123807",
+    "original": "https://redteams.ai/topics?_rsc=xabo0",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123812",
+    "original": "https://redteams.ai/topics?_rsc=xrzkl",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  },
+  {
+    "timestamp": "20260414123815",
+    "original": "https://redteams.ai/topics?_rsc=zvt1v",
+    "statuscode": "200",
+    "mimetype": "text/x-component"
+  }
+]
